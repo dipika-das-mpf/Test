@@ -1,0 +1,191 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Documents/workspace011/mplatform-qa-automation-master/minsights_userCredentails/qa1_minsights_user_credentails.json" timestamp="1515302238673">
+        <mark key="[" line="3" column="24" />
+        <mark key="]" line="3" column="24" />
+        <mark key="." line="3" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace011/mplatform-qa-automation-master/src/main/java/com/mplatform/framework/model/minsights/MI_LookLikeModelPage.java" timestamp="1515441221550">
+        <mark key="s" line="127" column="0" />
+        <mark key="'" line="100" column="133" />
+        <mark key="[" line="116" column="84" />
+        <mark key="]" line="116" column="84" />
+        <mark key="." line="116" column="84" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace011/mplatform-qa-automation-master/Config/CONFIG.properties" timestamp="1515182241052">
+        <mark key="[" line="15" column="39" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace011/mplatform-qa-automation-master/minsights_userCredentails/int_minsights_user_credentails.json" timestamp="1507247537448">
+        <mark key="[" line="2" column="28" />
+        <mark key="]" line="2" column="28" />
+        <mark key="." line="2" column="28" />
+      </file>
+      <file name="/Java Fragment (pom.xml:751).java" timestamp="1507252651319">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace011/mplatform-qa-automation-master/src/main/java/com/mplatform/framework/controller/MI_ApplicationController.java" timestamp="1514590296239">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace-new/mplatform-qa-automation-master-lateAug/Config/minsights/INT_CONFIG.properties" timestamp="1507248143799">
+        <mark key="[" line="48" column="57" />
+        <mark key="]" line="48" column="57" />
+        <mark key="." line="48" column="57" />
+      </file>
+      <file name="/Java Fragment (pom.xml:10161).java" timestamp="1514909058715">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace011/mplatform-qa-automation-master/src/main/java/com/mplatform/framework/base/ScriptBase.java" timestamp="1515188713740">
+        <mark key="[" line="216" column="87" />
+        <mark key="]" line="216" column="87" />
+        <mark key="." line="216" column="87" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace011/mplatform-qa-automation-master/src/main/java/com/mplatform/framework/controller/minsights/MI_CreateDataPartnerController.java" timestamp="1515088644353">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace4/mplatform-qa-automation-master 4.42.01 PM/src/main/java/com/mplatform/framework/base/Utils.java" timestamp="1507227277531">
+        <mark key="[" line="145" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace011/mplatform-qa-automation-master/Config/minsights/QA1_CONFIG.properties" timestamp="1515299673301">
+        <mark key="[" line="45" column="53" />
+        <mark key="]" line="45" column="53" />
+        <mark key="." line="45" column="53" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1515531828090">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace011/mplatform-qa-automation-master/src/main/java/com/mplatform/framework/data/minsights/MI_LoginPageData.java" timestamp="1515172141153">
+        <mark key="[" line="27" column="1" />
+        <mark key="]" line="27" column="1" />
+        <mark key="." line="27" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace011/mplatform-qa-automation-master/FirstDemoTest.xml" timestamp="1515422058759">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="4" column="42" />
+        <mark key="]" line="4" column="43" />
+        <mark key="." line="4" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace011/mplatform-qa-automation-master/src/main/java/com/mplatform/framework/model/minsights/MI_DataPartnerPage.java" timestamp="1515092043315">
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="15" />
+        <mark key="." line="8" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace011/mplatform-qa-automation-master/src/main/java/com/mplatform/framework/base/AppConstant.java" timestamp="1515184049431">
+        <mark key="[" line="13" column="112" />
+        <mark key="]" line="13" column="112" />
+        <mark key="." line="13" column="112" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace011/mplatform-qa-automation-master/src/main/java/com/mplatform/framework/controller/minsights/MI_CreateLookLikeModelController.java" timestamp="1515441405965">
+        <mark key="'" line="299" column="74" />
+        <mark key="[" line="214" column="99" />
+        <mark key="]" line="215" column="0" />
+        <mark key="." line="215" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace4/mplatform-qa-automation-master 4.42.01 PM/src/test/java/com/mplatform/test/minsights/FirstDemoTest.java" timestamp="1507225134081">
+        <mark key="[" line="36" column="2" />
+        <mark key="]" line="36" column="21" />
+        <mark key="." line="36" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace011/mplatform-qa-automation-master/pom.xml" timestamp="1515185637695">
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="0" />
+        <mark key="." line="114" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace011/mplatform-qa-automation-master/Config/minsights/INT_CONFIG.properties" timestamp="1515298138742">
+        <mark key="[" line="15" column="41" />
+        <mark key="]" line="15" column="41" />
+        <mark key="." line="15" column="41" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace011/mplatform-qa-automation-master/src/main/java/com/mplatform/framework/controller/minsights/MI_CreateAdvertiserController.java" timestamp="1515008260661">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace8/ems-qa-master/qa-utilities/helper/KafkaProducerClient.java" timestamp="1507142158278">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace-CC/ems-qa-master/qa-utilities/application/drivers/AudienceDiscoveryEventGeneration.java" timestamp="1515688302970" />
+      <file name="$USER_HOME$/Documents/workspace011/mplatform-qa-automation-master/src/main/java/com/mplatform/framework/model/minsights/MI_Setup_and_Admin_Menu.java" timestamp="1514663942976">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1515687933307">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="361" column="0" filename="$USER_HOME$/Documents/workspace8/ems-qa-master/qa-utilities/pom.xml" />
+      <jump line="124" column="22" filename="$USER_HOME$/Documents/workspace011/mplatform-qa-automation-master/src/test/java/com/mplatform/test/minsights/FirstDemoTest.java" />
+      <jump line="126" column="50" filename="$USER_HOME$/Documents/workspace011/mplatform-qa-automation-master/src/test/java/com/mplatform/test/minsights/FirstDemoTest.java" />
+      <jump line="21" column="44" filename="$USER_HOME$/Documents/workspace011/mplatform-qa-automation-master/src/main/java/com/mplatform/framework/controller/minsights/MI_CreateLooklikeModelController.java" />
+      <jump line="2" column="20" filename="$USER_HOME$/Documents/workspace011/mplatform-qa-automation-master/src/main/java/com/mplatform/framework/model/minsights/MI_LooklikeModelPage.java" />
+      <jump line="30" column="118" filename="$USER_HOME$/Documents/workspace011/mplatform-qa-automation-master/src/main/java/com/mplatform/framework/model/minsights/MI_Audience_Menu.java" />
+      <jump line="127" column="74" filename="$USER_HOME$/Documents/workspace011/mplatform-qa-automation-master/src/main/java/com/mplatform/framework/controller/minsights/MI_CreateLookLikeModelController.java" />
+      <jump line="21" column="0" filename="$USER_HOME$/Documents/workspace011/mplatform-qa-automation-master/src/main/java/com/mplatform/framework/model/minsights/MI_LookLikeModelPage.java" />
+      <jump line="171" column="0" filename="$USER_HOME$/Documents/workspace011/mplatform-qa-automation-master/src/main/java/com/mplatform/framework/controller/minsights/MI_CreateLookLikeModelController.java" />
+      <jump line="172" column="74" filename="$USER_HOME$/Documents/workspace011/mplatform-qa-automation-master/src/main/java/com/mplatform/framework/controller/minsights/MI_CreateLookLikeModelController.java" />
+      <jump line="26" column="0" filename="$USER_HOME$/Documents/workspace011/mplatform-qa-automation-master/FirstDemoTest.xml" />
+      <jump line="100" column="133" filename="$USER_HOME$/Documents/workspace011/mplatform-qa-automation-master/src/main/java/com/mplatform/framework/model/minsights/MI_LookLikeModelPage.java" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB0eXBlVmFsdWUoTG9va0xpa2VNb2RlbFBhZ2UuQ3VzdG9tVmFyaWFibGVDb25kaXRpb25Nb3JlVmFsdWUsICJVc2VyIE5hbWUiLCB0ZXN0RGF0YVZPLmdldFRlc3REYXRhKCJTVVBFUlVTRVIiKSk7Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0eXBlVmFsdWUoTG9va0xpa2VNb2RlbFBhZ2UuQ3VzdG9tVmFyaWFibGVDb25kaXRpb25Nb3JlVmFsdWUsICJVc2VyIE5hbWUiLCB0ZXN0RGF0YVZPLmdldFRlc3REYXRhKCJTVVBFUlVTRVIiKSk7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBjbGlja09iamVjdChMb29rTGlrZU1vZGVsUGFnZS5wYXNzd29yZCwgIkNsaWNrIG9uIFBhc3N3b3JkIEZpZWxkIik7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBlbGVtZW50RXhpc3RhbmNlKExvb2tMaWtlTW9kZWxQYWdlLnNlbGVjdExvb2tMaWtlQ3VzdG9tVmFyaWFibGVkdXJhdGlvbkNvbmRpdGlvblNldF9Ecm9wRG93bkljb24sICJXYWl0IGZvciBBdHRyaWJ1dGUgQWN0aXZpdHkgaW4gY29uZGl0aW9uIHNldCIgKwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjbGlja09iamVjdChMb29rTGlrZU1vZGVsUGFnZS5zZWxlY3RMb29rTGlrZUN1c3RvbVZhcmlhYmxlQXR0cmlidXRlU2NvcGVfRHJvcERvd25JY29uLCJDbGljayBPbiB0aGUgQWN0aXZpdHkiICsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Q2hyb21lQXV0b0lUUGF0aD0uL0Nocm9tZVByb3h5LmV4ZQpGaWxlVXBsb2FkUGFyZW50UGF0aD0uL0ZpbGVzVG9VcGxvYWQvClNpa3VsaUltYWdlc1BhdGg9Li9TaWt1bGlJbWFnZXMvCkhUTUxSZXN1bHRzUGF0aD0uL1Jlc3VsdHMKRG93bmxvYWRlZEZpbGVzPS4vRG93bmxvYWRlZEZpbGVzCgojIz09PT09PT09PT09PT09PT09PT09PT09PT1NT0JJTEUgQVBQTElDQVRJT04gUFJPUEVSVElFUz09PT09PT09PT09PT09PT0KCkFwcFBhY2thZ2U9Y29tLmFuZHJvaWQuY2FsY3VsYXRvcjIKQXBwQWN0aXZpdHk9Y29tLmFuZHJvaWQuY2FsY3VsYXRvcjIuQ2FsY3VsYXRvcgoKIyM9PT09PT09PT09PT09PT09PT09PT09PT09T1JBQ0xFIERBVEFCQVNFIENPTk5FQ1RJVklUWT09PT09PT09PT09PT09PT0KCkRCVVJMPWpkYmM6bXlzcWw6Ly8xMC4yMjEuMC4xNjk6MTUyMS9TUFJLRVFTVApVc2VybmFtZSA9Y21zcmVwClBhc3N3b3JkPUNNU1JFUEVRU1QKCiMjPT09PT09PT09PT09PT09PT09PT09PT09PT1RVUVSWUlORyBEQVRBQkFTRT09PT09PT09PT09PT09PT09PT09PT09PT09PQoKUXVlcnkgPSBzZWxlY3QgKiBmcm9tIGV2dG1zZ2pvYi5lX2V2ZW50CgojIz09PT09PT09PT09PT09PT09PT09PT09PT09QlJPV1NFUiBIRUlHSFRTPT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KCkNocm9tZU1lbnViYXJIZWlnaHQ9MTAwCgojIG1pbnNpZ2h0IEFwcGxpY2F0aW9uIFVSTCBOb2RlMSA9PiBodHRwOi8vMTAuOTAuMTAzLjIwMC9ob21lLmh0bQojIG1pbnNpZ2h0IEFwcGxpY2F0aW9uIFVSTCBOb2RlMiA9PiBodHRwOi8vMTAuOTAuMTAzLjIwMS9ob21lLmh0bQp1cmw9aHR0cDovLzEwLjkwLjEwMy4yMDAvaG9tZS5odG0KCiMgPT09PT09PT09PT09PT0gSmVua2lucyBDb25maWcgPT09PT09PT09PT09PT09PT09PQojIEJ1aWxkIHBlcmlvZGljYWxseSAtLT4gMDAgMTQgKiAqICogdG8gYmUgZXhlY3V0ZWQgYXQgMiBwbSBhcyBhbiBleGFtcGxlCiMgUHJlIFN0ZXAgLS0+IEV4ZWN1dGUgU2hlbGwgLS0+IHJtIC1yZiAkV09SS1NQQUNFL1Jlc3VsdHMvKgojIEJ1aWxkIC0tPiBSb290IFBPTSAtLT4gcG9tLnhtbAojIFN0YXJ0IHR1bm5lbCBmb3IgREIgIyBQcmUgU3RlcCAtLT4gRXhlY3V0ZSBTaGVsbCAtLT4KI3NzaCAtcCA0NDMgZWMyLXVzZXJANTIuMjAuMTAxLjU3IC1pIGRldm9wcy1zdGFnaW5nLnBlbSAtTCA1NDMyOnJlcG9ydGluZy12Mi1zdGFnZS5jenN0ZjJneGtlbG4udXMtZWFzdC0xLnJkcy5hbWF6b25hd3MuY29tOjU0MzIgLU4gJgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CTxwYXJhbWV0ZXIgbmFtZT0iYnJvd3NlciIgdmFsdWU9ImNocm9tZSIgLz4K</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CTxwYXJhbWV0ZXIgbmFtZT0icmVtb3RldXJsIiB2YWx1ZT0iZWVlZWUiIC8+Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CTxwYXJhbWV0ZXIgbmFtZT0iYnJvd3NlciIgdmFsdWU9ImZpcmVmb3giIC8+Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>Value</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts />
+    <editor>
+      <key-repeat enabled="false" />
+    </editor>
+  </component>
+</application>
